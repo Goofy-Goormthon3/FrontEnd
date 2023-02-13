@@ -1,4 +1,4 @@
-# Groomthon 3th : Team Goofy - FrontEnd
+# Groomthon 3rd : Team Goofy - FrontEnd
 
 ![goofy-01](https://user-images.githubusercontent.com/80222352/202829931-2aac4db2-7130-4289-9b2b-08a7203e3593.jpg)
 ![goofy-02](https://user-images.githubusercontent.com/80222352/202830003-161a3aa8-5a63-4999-ac8e-d2e076d68f81.jpg)
